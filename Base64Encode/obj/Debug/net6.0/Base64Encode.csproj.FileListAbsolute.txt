@@ -1,0 +1,15 @@
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\bin\Debug\net6.0\Base64Encode.exe
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\bin\Debug\net6.0\Base64Encode.deps.json
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\bin\Debug\net6.0\Base64Encode.runtimeconfig.json
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\bin\Debug\net6.0\Base64Encode.dll
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\bin\Debug\net6.0\Base64Encode.pdb
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\Base64Encode.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\Base64Encode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\Base64Encode.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\Base64Encode.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\Base64Encode.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\Base64Encode.dll
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\refint\Base64Encode.dll
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\Base64Encode.pdb
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\Base64Encode.genruntimeconfig.cache
+C:\Users\dawid\source\repos\Base64Encode\Base64Encode\obj\Debug\net6.0\ref\Base64Encode.dll
